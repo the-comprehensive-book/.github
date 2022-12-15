@@ -1,6 +1,7 @@
-## Welcome to The comprehensive book 👋
+## The comprehensive book
 
 <!--
+## Welcome to The comprehensive book 👋
 
 **Here are some ideas to get you started:**
 
