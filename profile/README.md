@@ -1,4 +1,5 @@
-## The comprehensive book : Turning difficult to be simple
+## The comprehensive book 
+### Turning difficult to be simple.
 
 <!--
 ## Welcome to The comprehensive book 👋
