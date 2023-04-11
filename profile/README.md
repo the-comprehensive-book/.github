@@ -2,7 +2,7 @@
 
 The comprehensive book : Turning difficult to be simple.
 
-Rigorous (extremely thorough, exhaustive, or accurate) Solving everyday real-world  machine learning problems. 
+Rigorous (extremely thorough, exhaustive, or accurate) solving everyday real-world  machine learning problems. 
 
 
 <!--
