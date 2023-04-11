@@ -1,6 +1,6 @@
 ## The comprehensive book 
-The comprehensive book : Turning difficult to be simple.
-Solving everyday real-world  machine learning problems. 
+# The comprehensive book : Turning difficult to be simple.
+# rigorous Solving everyday real-world  machine learning problems. 
 
 
 <!--
