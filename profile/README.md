@@ -1,6 +1,6 @@
 ## The comprehensive book - Demystifying Technology
 
-The comprehensive book : Turning difficult to be simple.
+The comprehensive book : Turning difficult to be simple. (All the Knowledge in the World)
 
 Rigorous (extremely thorough, exhaustive, or accurate) solving everyday real-world  machine learning problems. 
 
